@@ -10,8 +10,8 @@ h1 {
 	margin-bottom: 20px;
 	margin-top: 30px;
 }
+
 #description {
-		
 	clear: right;
 	padding-top: 25px;
 	padding-left: 15px;
@@ -21,7 +21,6 @@ h1 {
 	margin-right: 15px;	
 	font-family: Helvetica;
 	color: black;
-
 }
 
 div#item1 {
@@ -46,8 +45,8 @@ div#item1 {
 	right: -1px;
 	background-color: #FFB6C1; 
 }
+
 div#item2 {
-	
 	background-color: gray;
 	position: relative;
 	border: 1px solid black;
@@ -72,12 +71,12 @@ div#item2 {
 }
 
 div#item3 {
-	
 	background-color: gray;
 	position: relative;
 	border: 1px solid black;
 	margin: 15px;
 }
+
 #p3{
 	font-family: Helvetica;
 	font-size: 125%;
@@ -156,7 +155,6 @@ div#item3 {
 		margin : auto;
 		padding: 5px;
 		overflow: auto;
-
 
 	}
 	.col-md-1 {
